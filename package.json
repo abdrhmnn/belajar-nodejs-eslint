@@ -1,0 +1,21 @@
+{
+  "name": "belajar-nodejs-eslint",
+  "version": "1.0.0",
+  "description": "belajar eslint",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "belajar",
+    "js"
+  ],
+  "author": "abdu",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "eslint": "^9.9.1"
+  }
+}

@@ -1,0 +1,6 @@
+ESLint adalah library populer JS untuk melakukan static code analisis, yaitu teknik analisis untuk
+mendeteksi kode yang dibuat dengan tidak baik, atau berpotensi menjadi masalah di kemudian hari
+
+bisa disetup by projek atau global
+
+atau langsung juga bisa pakai ekstension di code editor yang digunakan
